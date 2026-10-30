@@ -367,6 +367,7 @@ A curated list of awesome Python frameworks, libraries and software.
 
 ### Scraping and Crawling
 
+* [Parse Everything](https://pypi.org/project/parse-everything/) - Anti-bot bypass and web extraction API with TLS fingerprinting, Turnstile/DataDome solving, and lightweight Python SDK.
 * [browser-use/browser-use](https://github.com/browser-use/browser-use) - Agents that use the browser.
 * [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev
 * [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
